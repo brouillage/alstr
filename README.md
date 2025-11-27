@@ -48,7 +48,7 @@
   </p>
 
  <p align="right">
-     <br> ${\textsf{\color{#858585}  .ᐟ art by ekajrdmaG on X}}$ 
+     <br> ${\textsf{\color{#000000}  .ᐟ art by ekajrdmaG on X}}$ 
  <br>
   </p>
 
