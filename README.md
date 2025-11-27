@@ -63,3 +63,8 @@
 <p align="right"> 
  <img src="https://komarev.com/ghpvc/?username=brouillage&color=781111&style=plastic&label=♱+I+see+you+;>+♱"/>
 <p align="center">
+
+![IMG_0561](https://github.com/user-attachments/assets/056d01ff-d397-44a4-afd0-85f99d1f9423)
+
+<img width="600" height="600" alt="IMG_0356" src="https://github.com/user-attachments/assets/5a446516-7e70-4c16-aa87-9341c4039f66" />
+
