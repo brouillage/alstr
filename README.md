@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src=https://github.com/user-attachments/assets/a89f81d1-b616-4fb0-b3e9-36eb48459d32>
+<img src=https://github.com/user-attachments/assets/151b226a-4af6-4e0a-a2a9-7ffbb44c734c>
 </p>
 
 <p align="center">
@@ -67,5 +67,7 @@
 
 <img width="600" height="600" alt="IMG_0356" src="https://github.com/user-attachments/assets/5a446516-7e70-4c16-aa87-9341c4039f66" />
 <img width="480" height="640" alt="image" src="https://github.com/user-attachments/assets/5c9c5024-0311-4c2c-bc70-230d3c0a4485" />
+
+<img width="4720" height="3280" alt="Без названия1_20251130005412" src="https://github.com/user-attachments/assets/151b226a-4af6-4e0a-a2a9-7ffbb44c734c" />
 
 
