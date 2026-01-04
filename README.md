@@ -73,3 +73,4 @@
 
 <img width="670" height="670" alt="Без названия25" src="https://github.com/user-attachments/assets/8ec84839-bf95-4bf9-a42b-ab62372933c1" />
 
+![b70d0a86793984bcc5f0f6a0c998ed0a](https://github.com/user-attachments/assets/0123d8fd-56fa-435b-aa87-f8534b5cc7ab)
