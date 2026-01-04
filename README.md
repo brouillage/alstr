@@ -71,4 +71,5 @@
 <img width="4720" height="2800" alt="Без названия3_20251130010157" src="https://github.com/user-attachments/assets/8122c5bb-3eb6-4b1b-8679-7a12c373cf79" />
 
 
+<img width="670" height="670" alt="Без названия25" src="https://github.com/user-attachments/assets/8ec84839-bf95-4bf9-a42b-ab62372933c1" />
 
