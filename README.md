@@ -74,3 +74,7 @@
 <img width="670" height="670" alt="Без названия25" src="https://github.com/user-attachments/assets/8ec84839-bf95-4bf9-a42b-ab62372933c1" />
 
 ![b70d0a86793984bcc5f0f6a0c998ed0a](https://github.com/user-attachments/assets/0123d8fd-56fa-435b-aa87-f8534b5cc7ab)
+
+<img width="736" height="736" alt="Без названия52_20260129231427" src="https://github.com/user-attachments/assets/c81f5f72-efc0-4a78-bc61-95fee13aec6b" />
+
+![2c3d48bc89be2d0e8376c64ef6349e0a](https://github.com/user-attachments/assets/485d9ac9-ccf2-49ff-9c51-c7d87e6e786d)
