@@ -78,3 +78,4 @@
 
 ![cae06377bbc3b803536b65e06a9f76c4](https://github.com/user-attachments/assets/6c2b09da-1e75-4d8e-939e-6fa654f7a0ee)
 
+<img width="1470" height="1174" alt="Без названия10_20260205233730" src="https://github.com/user-attachments/assets/d79ea089-fa00-4020-b315-928e2ba891ed" />
